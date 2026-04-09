@@ -15,3 +15,5 @@ O POSE (Protocolo Operacional de Segurança e Engenharia) é um agente de IA foc
 2. Execute o comando:
    ```bash
    python main.py
+## 🎥 Demonstração em vídeo
+[▶️ Assistir demonstração do POSE AI Agent](https://youtube.com/shorts/ioLbXYxYTnI)
